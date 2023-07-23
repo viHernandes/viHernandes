@@ -10,3 +10,5 @@
 <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/PowerBI-323330?style=for-the-badge&logo=Power%20BI&logoColor=white">
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+
